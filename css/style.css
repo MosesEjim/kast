@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+  }
+  .project{
+    width: 100%;
+    
+  }
+  .footer-section {
+    padding: 20px 0;
+    background: #021b41;
+  }
+  
+  .footer-section .social {
+    text-align: right;
+    display: block;
+    padding-top: 5px;
+  }
+  
+  .footer-section .social a {
+    color: #fff;
+    margin-right: 30px;
+  }
+  
+  .footer-section .social a:last-child {
+    margin-right: 0;
+  }
+  
+  .copyright p {
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 0;
+  }
+  .ti-twitter-alt{
+    font-size: 50px;
+  }
+  
